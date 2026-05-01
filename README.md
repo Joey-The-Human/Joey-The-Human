@@ -27,6 +27,7 @@ Oscilloscopes · Logic Analyzers · Firmware Debugging
 
 ## Stats
 
-![Joel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joey-The-Human&show_icons=true&theme=tokyonight)
+![Joel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joey-The-Human&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joey-The-Human&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joey-The-Human&layout=compact&theme=radical)
+
